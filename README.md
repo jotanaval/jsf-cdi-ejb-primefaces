@@ -1,0 +1,1 @@
+# jsf-cdi-ejb-primefaces
